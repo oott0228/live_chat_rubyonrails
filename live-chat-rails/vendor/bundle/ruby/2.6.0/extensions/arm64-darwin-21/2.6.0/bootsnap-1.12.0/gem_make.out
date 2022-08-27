@@ -1,5 +1,5 @@
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.12.0/ext/bootsnap
-/Users/tomori/.rbenv/versions/2.6.8/bin/ruby -I /Users/tomori/.rbenv/versions/2.6.8/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220710-30946-do6it0.rb extconf.rb
+/Users/tomori/.rbenv/versions/2.6.8/bin/ruby -I /Users/tomori/.rbenv/versions/2.6.8/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220827-52698-14ahlgr.rb extconf.rb
 creating Makefile
 
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.12.0/ext/bootsnap
@@ -367,4 +367,4 @@ linking shared-object bootsnap/bootsnap.bundle
 
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.12.0/ext/bootsnap
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220710-30946-atlj23/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220827-52698-13boi72/bootsnap

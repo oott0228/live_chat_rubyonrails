@@ -1,5 +1,5 @@
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/sqlite3-1.4.4/ext/sqlite3
-/Users/tomori/.rbenv/versions/2.6.8/bin/ruby -I /Users/tomori/.rbenv/versions/2.6.8/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220710-30946-8asew8.rb extconf.rb
+/Users/tomori/.rbenv/versions/2.6.8/bin/ruby -I /Users/tomori/.rbenv/versions/2.6.8/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220827-52698-jrsef.rb extconf.rb
 checking for sqlite3.h... yes
 checking for pthread_create() in -lpthread... yes
 checking for -ldl... yes
@@ -620,4 +620,4 @@ linking shared-object sqlite3/sqlite3_native.bundle
 
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/sqlite3-1.4.4/ext/sqlite3
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20220710-30946-1uxd1j0/sqlite3
+/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20220827-52698-1ycoyo7/sqlite3

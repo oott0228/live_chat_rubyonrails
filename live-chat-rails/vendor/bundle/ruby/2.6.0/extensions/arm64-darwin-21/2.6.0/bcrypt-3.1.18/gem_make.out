@@ -1,5 +1,5 @@
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.18/ext/mri
-/Users/tomori/.rbenv/versions/2.6.8/bin/ruby -I /Users/tomori/.rbenv/versions/2.6.8/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220710-30946-1y7blzd.rb extconf.rb
+/Users/tomori/.rbenv/versions/2.6.8/bin/ruby -I /Users/tomori/.rbenv/versions/2.6.8/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220827-52698-gdmnv7.rb extconf.rb
 creating Makefile
 
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.18/ext/mri
@@ -36,4 +36,4 @@ linking shared-object bcrypt_ext.bundle
 
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.18/ext/mri
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 bcrypt_ext.bundle ./.gem.20220710-30946-1hwxix
+/usr/bin/install -c -m 0755 bcrypt_ext.bundle ./.gem.20220827-52698-egkvjx

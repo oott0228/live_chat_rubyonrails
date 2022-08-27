@@ -1,5 +1,5 @@
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
-/Users/tomori/.rbenv/versions/2.6.8/bin/ruby -I /Users/tomori/.rbenv/versions/2.6.8/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220710-30946-t0x5sk.rb extconf.rb
+/Users/tomori/.rbenv/versions/2.6.8/bin/ruby -I /Users/tomori/.rbenv/versions/2.6.8/lib/ruby/site_ruby/2.6.0 -r ./siteconf20220827-52698-fel19t.rb extconf.rb
 creating Makefile
 
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
@@ -12,4 +12,4 @@ linking shared-object websocket_mask.bundle
 
 current directory: /Users/tomori/RubyOnRails/live-chat-rails/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20220710-30946-insxkc
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20220827-52698-17m9m58
